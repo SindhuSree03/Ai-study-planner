@@ -1,0 +1,5 @@
+machine learning,3,2,1.0,11
+artificial intelligence,5,2,2.0,9
+web technologies,6,3,2.0,10
+python,7,4,1.0,11
+java,3,1,1.0,9
