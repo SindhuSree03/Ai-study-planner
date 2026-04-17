@@ -16,4 +16,4 @@ python gui_planner.py
 - subjects.txt
 
 ## 📸 Screenshot
-(Add screenshot here later)
+![App Screenshot](screenshot.png)
